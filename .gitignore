@@ -1,0 +1,35 @@
+# Flutter-related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Nested duplicate project (kept locally, not published)
+/trade_app/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Android-related
+**/android/**/local.properties
+**/android/**/*.keystore
+**/android/**/*.jks
+**/android/app/google-services.json
+android/.gradle/
+*.apk
+*.aab
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
