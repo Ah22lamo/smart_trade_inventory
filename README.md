@@ -14,6 +14,16 @@ An offline-first Flutter application for small retail and wholesale businesses. 
 
 ---
 
+## Screenshots
+
+![UI preview](screenshots/ui_preview.png)
+
+Individual screens: [Home](screenshots/home.png) · [Inventory](screenshots/inventory.png) · [Purchases](screenshots/purchases.png) · [Sales](screenshots/sales.png) · [Search](screenshots/search.png)
+
+> The sales screen is shown empty because add-to-cart is not wired yet. This is an accurate capture of the current prototype.
+
+---
+
 ## Overview
 
 The project explores a common small-business workflow: import a supplier invoice from Excel, keep stock quantities up to date, create sales invoices, print them as PDF, and review simple inventory alerts.
